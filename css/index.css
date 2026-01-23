@@ -23,7 +23,7 @@ body{
     Meiryo,
     sans-serif;
     text-align: center;
-    background-image: url(../../img/flower.jpg);
+    background-image: url(../img/flower.jpg);
     background-size: cover;
     overflow: hidden;
 }
@@ -159,5 +159,6 @@ footer> p {
     }
 
 }
+
 
 
