@@ -25,7 +25,7 @@ body{
     text-align: center;
     background-image: url(../img/flower.jpg);
     background-size: cover;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 header, footer, h1, h2, h3, p, div, .container01, .filler01 {
@@ -159,6 +159,7 @@ footer> p {
     }
 
 }
+
 
 
 
